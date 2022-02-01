@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Table of Programming Languages</title>
+    </head>
+    <body>
+    <h1>Programming Languages</h1>
+    <h2>Table</h2>
+   <table>
+       <tr><td>(1) HTML:-</td><td>Hyper Text Markup Language</td></tr>
+       <tr><td>(2) CSS:-</td><td>Cascading Style Sheets</td></tr>
+       <tr><td>(3) SQl:-</td><td>Structured Query Language</td></tr>
+       <tr><td>(4) JS:-</td><td>JavaScript</td></tr>
+       <tr><td>(5) COBOL:-</td><td>Common Business Oriented Language</td></tr>
+       <tr><td>(6) ALGO:-</td><td>ALGOrithmic Language</td></tr>
+       <tr><td>(7) XML:-</td><td>Extensible Markup Language </td></tr>
+       <tr><td>(8) PHP:-</td><td>Hypertext PreProcesser</td></tr>
+       <tr><td>(9) ASP:-</td><td>Active Server Pages</td></tr>
+       <tr><td>(10) JSP:-</td><td>Java Server Pages</td></tr>
+       <tr><td>(11) AJAX:-</td><td>Asynchronous JavaScript And XML</td></tr>
+       <tr><td>(12) XSL:-</td><td>Extensible Stylesheet Language</td></tr>
+   </table>     
+    </body>
+</html>
