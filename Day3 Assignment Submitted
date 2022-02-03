@@ -6,7 +6,7 @@
     </head>
     <body>
     <table border="2">
-        <caption style="color: green;">SK Restro Menu</caption>
+        <caption style="color: green; font-weight: bold;">SK Restro Menu</caption>
         <!__row1__>
         <tr>
         <th rowspan="2">Type</th>
