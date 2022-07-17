@@ -1,0 +1,130 @@
+<html lang="en">
+ <head> 
+  <meta charset="utf-8"> 
+  <meta name="author" content="khushwant suthar"> 
+  <meta name="keywords" content="Jaspal Singh"> 
+  <meta name="description" content="i am an Influencer. i like to provide the motivational content to peoples. i try to learn something new everyday and i share it in the form of my posts my youtube videos etc."> 
+  <meta name="viewport" content="width=device-width, initial-scale=1"> 
+  <meta property="og:title" content="The Offical Jaspal Singh's Website"> 
+  <link rel="stylesheet" href="index.css"> 
+  <link rel="shortcut icon" href="favicon-16x16.png" type="image/x-icon"> 
+  <title>Learn With Jaspal</title> 
+ </head> 
+ <body> 
+  <header class="Main
+    "> 
+   <div id="H1"> 
+    <center> 
+     <h1 id="Heading1" class="title">Jaspal Singh</h1> 
+    </center> 
+   </div> 
+   <!-- Top Image --> 
+   <div class="back-dark"> 
+    <div class="mainContent dp"> 
+     <center> 
+      <figure> 
+       <img src="jaspal3.png" style="width: 240px; border-radius: 120px; border: 4px bold white;" class="coverImage" alt="Jaspal Singh"> 
+      </figure> 
+     </center> 
+    </div> 
+    <div class="dp-lower"> 
+     <center> 
+      <h5 style="font-size:25px">Learn,Unlearn And Relearn.</h5> 
+     </center> 
+    </div> 
+   </div> 
+  </header> 
+  <br>
+  <br> 
+  <main> 
+   <!-- Intro with Image --> 
+   <div class="Second"> 
+    <center> 
+     <div class="flex-container"> 
+      <div class="flex-item-left overflow-hidden flex-50"> 
+       <img src="jaspal2.png" class="flex-image" alt="Image" style="width: 140px; border-radius: 10px;"> 
+      </div> 
+      <div class="flex-item-right center flex-50"> 
+       <div> 
+        <h1 class="flex-title">A Social Media Influencer And Junior UI &amp; UX Designer.</h1> 
+       </div> 
+      </div> 
+     </div> 
+    </center> 
+   </div> 
+   <br> 
+   <br> 
+   <!-- Srijan Academy Website --> 
+   <div class="Srijan"> 
+    <center> 
+     <h1 class="">SRIJAN ACADEMY</h1> 
+     <br> 
+     <br> 
+     <a href="https://srijanacademy.in"> <img src="srijanacademy.jpg" class="appImage" style="width: 200px; border: 4px bold black;" alt="Srijan Academy Offical Website"> </a> 
+    </center> 
+   </div> 
+   <!-- About Me --> 
+   <center> 
+    <div> 
+     <h1 class="OuterHeading">ABOUT ME</h1> 
+    </div> 
+   </center> 
+   <div class="About"> 
+    <h5 class="Aboutme">WHO I AM AND WHAT I DO?</h5> 
+    <p class="AMtext"> Good day, guys! I'm Jaspal Singh Sindhal, and I'm originally from Sirohi, Rajasthan. I'm a YouTuber with over a lac subscribers. I also enjoy learning new things and sharing them on social media. My goal is to help young people develop their personalities. <br> In terms of my schooling, I am a 12 <sup>th</sup> grade graduate who is currently pursuing a bachelor's degree in science. I used to take part in extracurricular activities such as Science Fairs, Speech Competitions, and Debates. Those activities, in my opinion, form the foundation of a perfect personality. <br> In addition, I am a Co-Founder of Srijan Academy, a new project. Srijan Academy is a place where you may learn a variety of soft and hard skills in one place. <br> I'm a junior UI and UX designer who can also create a decent and user-friendly website user interface. If you want to make a website, you can contact me. </p> 
+   </div> 
+   <div class="About"> 
+    <h5 class="Aboutme">OUR OBJECTIVE</h5> 
+    <p class="AMtext"> As I already stated, I enjoy learning something new every day and sharing it with others. All of my posts are motivational, educational, and succinct. Following My posts will help you develop a positive personality. <br> The Digital Era Will Move at a Breakneck Speed. As a result, we must catch up on all of those good things and skills. It will assist in future survival. There is an excessive amount of hard and soft skills to learn. With our other website, Srijan Academy, we are attempting to assist everyone. Janak Singh has started a new project called Srijan Academy. We Have a plethora of ideas for students from the middle and lower classes. We'll carry them out one by one. <br> </p> 
+   </div> 
+   <div class="About"> 
+    <h5 class="Aboutme">CONTACT ME</h5> 
+    <p class="AMtext"> get in touch . <br> I have been entrusted with some truly innovative ideas. You are welcome to talk to me about your ideas. You don't need to make an appointment for it; simply send me an email or DM on Instagram. I will make every effort to respond to all good questions and suggestions as soon as possible. <br> You can also take one-on-one mentoring from me on Instagram. I am confident that I will be able to assist you. <span> <a href=" class='flex-link'.com "></a> </span> </p> 
+   </div> 
+   <!-- My Work --> 
+   <center> 
+    <div> 
+     <h1 class="OuterHeading">MY WORK</h1> 
+    </div> 
+   </center> 
+   <center> 
+    <div> 
+     <div class="Work1"> 
+      <h5 class="Heading2">YOUTUBE </h5> 
+      <img src="jaspal2.png" class="workImage" alt="Learn With Jaspal"> 
+      <p> <b>Subscribers:</b> ~1 lac Subscribers <br> <b> Active since :</b> 2021 <br> <b> Genre :</b> Motivational Speechs </p> 
+      <a class="Atag" href="https://www.youtube.com/c/LearnwithJaspal" target="_blank"> <button class="button"> <h5 class="Findout">JUMP TO YOUTUBE</h5> </button> </a> 
+     </div> 
+     <div class="Work1"> 
+      <h5 class="Heading2">INSTAGRAM </h5> 
+      <img src="LearnWithJaspal.jpg" class="workImage" alt="jaspal Singh instagram"> 
+      <p class="flex-item-text text-left"> Followers: ~20K <br> Active since : 2021 <br> Genre : Video Editing, Content Creating. </p> 
+      <a class="Atag" href="https://www.instagram.com/learnwithjaspal/" target="_blank"> <button class="button"> <h5 class="Findout">JUMP TO INSTAGRAM</h5> </button> </a> 
+     </div> 
+     <div class="Work1"> 
+      <h5 class="Heading2">SPOTIFY PODCASTS</h5> 
+      <img src="Spotify.png" class="workImage" alt="spotify logo"> 
+      <p class="flex-item-text text-left"> Our Podcasts Are Coming Soon... <br> We Can Suggest You Some Podcasts to listen. You Can Listen Them By Clicking On "FIND OUT MORE" below. </p> 
+      <a href="" class="Atag" target="_blank"> <button class="button"> <h5 class="Findout">LISTEN NOW!</h5> </button> </a> 
+     </div> 
+     <p class="pLast">I appreciate everyone who took the time to read those items.</p> 
+    </div>
+   </center> 
+  </main> 
+  <footer> 
+   <!-- Social Media --> 
+   <div> 
+    <h1>SOCIAL MEDIA</h1> 
+   </div> 
+   <!-- please dont try to change this i definatly say you will get confused --> 
+   <center> 
+    <a href="https://www.facebook.com/Learnwithjaspal/" target="_blank"> <img src="Facebook.png" class="social-image" alt="Facebook"> </a> 
+    <a href="https://www.instagram.com/learnwithjaspal/" target="_blank"> <img src="Instagram.jpeg" class="social-image" alt="Instagram"> </a> 
+    <a href="https://t.me/learnwithjaspal" target="_blank"> <img src="Telegram.png" class="social-image" alt="Telegram"> </a> 
+    <a href="https://www.youtube.com/c/LearnwithJaspal" target="_blank"> <img src="Youtube.png" class="social-image" alt="Youtube"> </a> 
+   </center> 
+   <p style="font-style: italic; padding-bottom: 20px;text-align: center;">Made by Khushwant Suthar</p> 
+   <!-- lets put the name in this website because this is my 1st ever website  --> 
+  </footer> 
+ </body>
+</html>
